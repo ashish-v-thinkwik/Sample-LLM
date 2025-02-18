@@ -1,5 +1,5 @@
 pandas 
-pandasai
+pandasai==1.4.1
 streamlit
 python-dotenv
 openpyxl
