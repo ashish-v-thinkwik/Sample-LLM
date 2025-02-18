@@ -1,8 +1,7 @@
 pandas 
 pandasai
 streamlit
-langchain-groq
-langchain
-langchain_experimental
 python-dotenv
-difflib
+openpyxl
+langchain-groq
+langchain-experimental
