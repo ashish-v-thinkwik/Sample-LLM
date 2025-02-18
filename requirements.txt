@@ -1,5 +1,6 @@
 pandas 
 pandasai==1.4.1
+numpy==1.24.4
 streamlit
 python-dotenv
 openpyxl
