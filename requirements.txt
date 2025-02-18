@@ -7,3 +7,4 @@ openpyxl
 langchain-groq
 langchain-experimental
 langchain
+tabulate
