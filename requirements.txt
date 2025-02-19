@@ -1,6 +1,6 @@
 pandas 
-pandasai==1.4.1
-numpy==1.24.4
+pandasai
+numpy
 streamlit
 python-dotenv
 openpyxl
@@ -8,3 +8,10 @@ langchain-groq
 langchain-experimental
 langchain
 tabulate
+openai
+langchain-openai
+llama-index
+llama-parse
+faiss-cpu 
+sentence-transformers 
+fuzzywuzzy 
